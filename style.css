@@ -14,7 +14,6 @@ body {
 }
 
 a {
-  font-size: 1.5rem;
   text-decoration: none;
   border: 1rem;
   padding-left: 1rem;
@@ -65,7 +64,6 @@ h1 {
 
 .time-btn {
   background-color: transparent;
-  font-size: 1.5rem;
   border: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
